@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "xinkun_genshin:item/cloud_tower"
+  }
+}

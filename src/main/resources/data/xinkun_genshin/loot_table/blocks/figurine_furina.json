@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "xinkun_genshin:figurine_furina"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "xinkun_genshin:blocks/figurine_furina"
+}

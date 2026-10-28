@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=1": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=2": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=3": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=4": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=5": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=6": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=7": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=8": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=9": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=10": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=11": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=12": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=13": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=14": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    },
+    "rotation=15": {
+      "model": "xinkun_genshin:block/figurine_yoimiya"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=1": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=2": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=3": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=4": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=5": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=6": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=7": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=8": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=9": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=10": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=11": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=12": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=13": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=14": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    },
+    "rotation=15": {
+      "model": "xinkun_genshin:block/figurine_sandrone"
+    }
+  }
+}

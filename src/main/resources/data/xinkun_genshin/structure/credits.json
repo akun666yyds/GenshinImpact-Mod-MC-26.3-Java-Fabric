@@ -1,0 +1,756 @@
+{
+  "format": "minecraft:structure",
+  "data_version": 5023,
+  "blueprints": [
+    {
+      "id": "luxury_villa",
+      "file": "luxury_villa.nbt",
+      "build": "Modern 3-Story House (21x23)",
+      "author": "SuperMario128",
+      "source": "https://mc-schematics.com/s/modern-3-story-house-21x23-cad9541338",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        23,
+        13,
+        21
+      ],
+      "blocks": 2219,
+      "stripped_terrain": 39
+    },
+    {
+      "id": "medieval_castle",
+      "file": "medieval_castle.nbt",
+      "build": "Small Medieval Castle",
+      "author": "MckPL_Discord",
+      "source": "https://mc-schematics.com/s/small-medieval-castle-structure-a067e7f736",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        41,
+        17,
+        39
+      ],
+      "blocks": 5432,
+      "stripped_terrain": 409
+    },
+    {
+      "id": "modern_tower",
+      "file": "modern_tower.nbt",
+      "build": "Modern Office Tower",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-office-tower-9ab255b010",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        36,
+        54,
+        23
+      ],
+      "blocks": 15016,
+      "stripped_terrain": 1639
+    },
+    {
+      "id": "liyue",
+      "file": "liyue.nbt",
+      "build": "Asian Survival Home",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/asian-survival-home-8085267af9",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        26,
+        21,
+        37
+      ],
+      "blocks": 3549,
+      "stripped_terrain": 1722
+    },
+    {
+      "id": "french",
+      "file": "french.nbt",
+      "build": "19th Century Palace",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/19th-century-palace-83ce072584",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        31,
+        16,
+        36
+      ],
+      "blocks": 6247,
+      "stripped_terrain": 0
+    },
+    {
+      "id": "summer_festival",
+      "file": "summer_festival.nbt",
+      "build": "Asian Mansion And Market",
+      "author": "LaDandyDude",
+      "source": "https://mc-schematics.com/s/asian-mansion-and-market-3358e7e54f",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        32,
+        22,
+        75
+      ],
+      "blocks": 7257,
+      "stripped_terrain": 1901
+    },
+    {
+      "id": "villa_garden",
+      "file": "villa_garden.nbt",
+      "build": "Modern Villa With Extensive Garden",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-villa-with-extensive-garden-3fdf44e317",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        57,
+        12,
+        90
+      ],
+      "blocks": 4577,
+      "stripped_terrain": 4940
+    },
+    {
+      "id": "villa_dawn",
+      "file": "villa_dawn.nbt",
+      "build": "Dawn Villa House",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/dawn-villa-house-5458ae98dc",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        44,
+        42,
+        41
+      ],
+      "blocks": 12711,
+      "stripped_terrain": 4
+    },
+    {
+      "id": "villa_contemporary",
+      "file": "villa_contemporary.nbt",
+      "build": "Contemporary Luxury Mansion",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/contemporary-luxury-mansion-e656cc2cdb",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        22,
+        13,
+        16
+      ],
+      "blocks": 1346,
+      "stripped_terrain": 0
+    },
+    {
+      "id": "villa_suburban",
+      "file": "villa_suburban.nbt",
+      "build": "Contemporary Suburban Family Residence",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/contemporary-suburban-family-residence-b98e573dba",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        18,
+        11,
+        16
+      ],
+      "blocks": 1361,
+      "stripped_terrain": 0
+    },
+    {
+      "id": "city_tower_glass",
+      "file": "city_tower_glass.nbt",
+      "build": "Modern Skyscraper Design",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-skyscraper-design-4efabe172b",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        60,
+        65,
+        39
+      ],
+      "blocks": 24618,
+      "stripped_terrain": 599
+    },
+    {
+      "id": "city_tower_rocket",
+      "file": "city_tower_rocket.nbt",
+      "build": "Skyscraper Rocket Farm",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/skyscraper-rocket-farm-f177b6cc74",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        34,
+        148,
+        30
+      ],
+      "blocks": 31938,
+      "stripped_terrain": 1805
+    },
+    {
+      "id": "city_tower_giant",
+      "file": "city_tower_giant.nbt",
+      "build": "Giant City Skyscraper with Trees",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/giant-city-skyscraper-with-trees-c903aa8161",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        73,
+        171,
+        58
+      ],
+      "blocks": 64392,
+      "stripped_terrain": 2818
+    },
+    {
+      "id": "city_tower_complex",
+      "file": "city_tower_complex.nbt",
+      "build": "Modern City Skyscrapers",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-city-skyscrapers-162a4fef41",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        112,
+        88,
+        112
+      ],
+      "blocks": 75646,
+      "stripped_terrain": 21055
+    },
+    {
+      "id": "medieval_house",
+      "file": "medieval_house.nbt",
+      "build": "Cozy Medieval Village House",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/cozy-medieval-village-house-schematic-for-minecraft-8420009ef0",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        22,
+        17,
+        26
+      ],
+      "blocks": 2804,
+      "stripped_terrain": 655
+    },
+    {
+      "id": "medieval_watchtower",
+      "file": "medieval_watchtower.nbt",
+      "build": "Compact Gothic Medieval Watchtower",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/compact-gothic-medieval-watchtower-with-interior-f560510db8",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        9,
+        23,
+        9
+      ],
+      "blocks": 444,
+      "stripped_terrain": 4
+    },
+    {
+      "id": "medieval_manor",
+      "file": "medieval_manor.nbt",
+      "build": "Detailed Fantasy Medieval Manor",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/detailed-fantasy-medieval-manor-build-3a3750b883",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        39,
+        52,
+        41
+      ],
+      "blocks": 14963,
+      "stripped_terrain": 513
+    },
+    {
+      "id": "medieval_lighthouse",
+      "file": "medieval_lighthouse.nbt",
+      "build": "Medieval Lighthouse Dwelling",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/medieval-lighthouse-dwelling-62e6d94e52",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        49,
+        63,
+        43
+      ],
+      "blocks": 5029,
+      "stripped_terrain": 896
+    },
+    {
+      "id": "desert_temple",
+      "file": "desert_temple.nbt",
+      "build": "Ancient Desert Temple",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/ancient-desert-temple-structure-bb4d738746",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        40,
+        34,
+        23
+      ],
+      "blocks": 3724,
+      "stripped_terrain": 1738
+    },
+    {
+      "id": "coastal_lighthouse",
+      "file": "coastal_lighthouse.nbt",
+      "build": "Coastal Lighthouse Residence",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/coastal-lighthouse-residence-daae3fdbb0",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        20,
+        56,
+        20
+      ],
+      "blocks": 3985,
+      "stripped_terrain": 0
+    },
+    {
+      "id": "garden_gazebo",
+      "file": "garden_gazebo.nbt",
+      "build": "Japanese Garden Gazebo",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/japanese-garden-gazebo-a940fc225b",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        45,
+        17,
+        71
+      ],
+      "blocks": 9392,
+      "stripped_terrain": 1135
+    },
+    {
+      "id": "furina_opera",
+      "file": "furina_opera.nbt",
+      "build": "Baroque Tropical City Castle",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/baroque-tropical-city-castle-003708144a",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        73,
+        44,
+        73
+      ],
+      "blocks": 18231,
+      "stripped_terrain": 15851
+    },
+    {
+      "id": "furina_cathedral",
+      "file": "furina_cathedral.nbt",
+      "build": "French Stone Cathedral",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/french-stone-cathedral-2b862067b1",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        19,
+        22,
+        35
+      ],
+      "blocks": 3220,
+      "stripped_terrain": 203
+    },
+    {
+      "id": "hutao_mansion",
+      "file": "hutao_mansion.nbt",
+      "build": "Grand Chinese Mansion",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/grand-chinese-mansion-400fccf984",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        41,
+        38,
+        151
+      ],
+      "blocks": 48407,
+      "stripped_terrain": 304
+    },
+    {
+      "id": "yoimiya_mansion",
+      "file": "yoimiya_mansion.nbt",
+      "build": "Japanese Style Mansion",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/japanese-style-mansion-972541b973",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        47,
+        37,
+        42
+      ],
+      "blocks": 10080,
+      "stripped_terrain": 2655
+    },
+    {
+      "id": "yoimiya_shrine",
+      "file": "yoimiya_shrine.nbt",
+      "build": "Cherry Japanese Temple",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/cherry-japanese-temple-structure-de2efde788",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        27,
+        41,
+        29
+      ],
+      "blocks": 4887,
+      "stripped_terrain": 671
+    },
+    {
+      "id": "columbina_teapot",
+      "file": "columbina_teapot.nbt",
+      "build": "Overgrown Moon Teapot",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/overgrown-moon-teapot-structure-fb5c5cd62a",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        36,
+        41,
+        11
+      ],
+      "blocks": 2817,
+      "stripped_terrain": 10
+    },
+    {
+      "id": "villa_waterfront",
+      "file": "villa_waterfront.nbt",
+      "build": "Luxury Waterfront Villa",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/luxury-waterfront-villa-e6e5a9e226",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        100,
+        52,
+        73
+      ],
+      "blocks": 33398,
+      "stripped_terrain": 154244
+    },
+    {
+      "id": "villa_modern",
+      "file": "villa_modern.nbt",
+      "build": "Modern Villa Design",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-villa-design-303d6569f3",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        27,
+        13,
+        34
+      ],
+      "blocks": 4241,
+      "stripped_terrain": 1984
+    },
+    {
+      "id": "villa_sandstone",
+      "file": "villa_sandstone.nbt",
+      "build": "Modern Sandstone Villa",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-sandstone-villa-c71012756a",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        41,
+        14,
+        71
+      ],
+      "blocks": 5779,
+      "stripped_terrain": 7175
+    },
+    {
+      "id": "castle_fantasy",
+      "file": "castle_fantasy.nbt",
+      "build": "Fantasy Medieval Castle",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/fantasy-medieval-castle-build-aa66df58e1",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        65,
+        69,
+        65
+      ],
+      "blocks": 30075,
+      "stripped_terrain": 1498
+    },
+    {
+      "id": "fortress_cornet",
+      "file": "fortress_cornet.nbt",
+      "build": "Castle Cornet Medieval Fortress",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/castle-cornet-medieval-fortress-42073492c2",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        321,
+        70,
+        263
+      ],
+      "blocks": 90571,
+      "stripped_terrain": 1589205
+    },
+    {
+      "id": "lighthouse_grand",
+      "file": "lighthouse_grand.nbt",
+      "build": "Functional Medieval Lighthouse",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/functional-medieval-lighthouse-structure-19f6f5b26f",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        14,
+        48,
+        14
+      ],
+      "blocks": 2041,
+      "stripped_terrain": 60
+    },
+    {
+      "id": "tower_bastion",
+      "file": "tower_bastion.nbt",
+      "build": "Absolute Bastion Sky Tower",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/absolute-bastion-sky-tower-e74187fb43",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        163,
+        185,
+        163
+      ],
+      "blocks": 255769,
+      "stripped_terrain": 0
+    },
+    {
+      "id": "yoimiya_pagoda",
+      "file": "yoimiya_pagoda.nbt",
+      "build": "Japanese Pagoda House",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/japanese-pagoda-house-f73bfbd747",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        19,
+        20,
+        19
+      ],
+      "blocks": 1808,
+      "stripped_terrain": 4
+    },
+    {
+      "id": "elegant_office_tower",
+      "file": "elegant_office_tower.nbt",
+      "build": "Elegant Modern Office Tower",
+      "author": "igocraft",
+      "source": "https://mc-schematics.com/s/elegant-modern-office-tower-898eca63f7",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        55,
+        118,
+        83
+      ],
+      "blocks": 20450,
+      "stripped_terrain": 2324
+    },
+    {
+      "id": "city_shops",
+      "file": "city_shops.nbt",
+      "build": "City Shops Building",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/city-shops-building-95dcd88cc8",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        132,
+        71,
+        75
+      ],
+      "blocks": 30044,
+      "stripped_terrain": 4307
+    },
+    {
+      "id": "city_plaza",
+      "file": "city_plaza.nbt",
+      "build": "City Palace Minecraft Build",
+      "author": "wovenhopper",
+      "source": "https://mc-schematics.com/s/city-palace-minecraft-build-b31b448e13",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        75,
+        51,
+        114
+      ],
+      "blocks": 39268,
+      "stripped_terrain": 584
+    },
+    {
+      "id": "skyline_apartment",
+      "file": "skyline_apartment.nbt",
+      "build": "Modern City Apartment Building",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-city-apartment-building-8c4479e9cd",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        119,
+        59,
+        80
+      ],
+      "blocks": 44053,
+      "stripped_terrain": 9746
+    },
+    {
+      "id": "downtown_block",
+      "file": "downtown_block.nbt",
+      "build": "Modern Urban Minecraft Complex",
+      "author": "dangerousdana",
+      "source": "https://mc-schematics.com/s/modern-urban-minecraft-complex-63e3b27248",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        104,
+        43,
+        61
+      ],
+      "blocks": 19991,
+      "stripped_terrain": 640
+    },
+    {
+      "id": "modern_housing",
+      "file": "modern_housing.nbt",
+      "build": "Urban Modern Houses Pack",
+      "author": "copperwillow37",
+      "source": "https://mc-schematics.com/s/urban-modern-houses-pack-b0f710e155",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        58,
+        59,
+        90
+      ],
+      "blocks": 26613,
+      "stripped_terrain": 2357
+    },
+    {
+      "id": "townhouses",
+      "file": "townhouses.nbt",
+      "build": "Urban Houses Minecraft Pack",
+      "author": "rugged_bramble",
+      "source": "https://mc-schematics.com/s/urban-houses-minecraft-pack-9cafe7ff69",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        50,
+        35,
+        52
+      ],
+      "blocks": 8223,
+      "stripped_terrain": 400
+    },
+    {
+      "id": "glass_palace",
+      "file": "glass_palace.nbt",
+      "build": "Modern Urban Palace House",
+      "author": "frostzephyr94",
+      "source": "https://mc-schematics.com/s/modern-urban-palace-house-d8ced95f78",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        50,
+        41,
+        51
+      ],
+      "blocks": 8054,
+      "stripped_terrain": 136
+    },
+    {
+      "id": "parking_garage",
+      "file": "parking_garage.nbt",
+      "build": "Parking Structure",
+      "author": "Raekon",
+      "source": "https://mc-schematics.com/s/parking-structure-3c68a5ba63",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        93,
+        12,
+        69
+      ],
+      "blocks": 9486,
+      "stripped_terrain": 4766
+    },
+    {
+      "id": "ring_house",
+      "file": "ring_house.nbt",
+      "build": "Modern Futuristic House Design",
+      "author": "glitchscraps",
+      "source": "https://mc-schematics.com/s/modern-futuristic-house-design-8f3a739f30",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        13,
+        11,
+        13
+      ],
+      "blocks": 633,
+      "stripped_terrain": 8
+    },
+    {
+      "id": "signal_tower",
+      "file": "signal_tower.nbt",
+      "build": "Modern Futuristic Sci Fi Building",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/modern-futuristic-sci-fi-building-3de106dbf6",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        19,
+        51,
+        29
+      ],
+      "blocks": 3254,
+      "stripped_terrain": 15
+    },
+    {
+      "id": "city_library",
+      "file": "city_library.nbt",
+      "build": "Library Observatory",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/library-observatory-cac0c673a0",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        42,
+        30,
+        25
+      ],
+      "blocks": 6054,
+      "stripped_terrain": 287
+    },
+    {
+      "id": "hill_library",
+      "file": "hill_library.nbt",
+      "build": "Mountain Library Structure",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/mountain-library-structure-1d319595a4",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        49,
+        35,
+        47
+      ],
+      "blocks": 15365,
+      "stripped_terrain": 33
+    },
+    {
+      "id": "cloud_tower",
+      "file": "cloud_tower.nbt",
+      "build": "Huge City House",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/huge-city-house-5abd4a21ba",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        60,
+        256,
+        67
+      ],
+      "blocks": 100386,
+      "stripped_terrain": 3747
+    },
+    {
+      "id": "city_corner",
+      "file": "city_corner.nbt",
+      "build": "Part of the City Minecraft Build",
+      "author": "mc-schematics.com community",
+      "source": "https://mc-schematics.com/s/part-of-the-city-minecraft-build-277b2368d2",
+      "license": "Free community download (mc-schematics.com)",
+      "size": [
+        107,
+        38,
+        103
+      ],
+      "blocks": 41050,
+      "stripped_terrain": 27134
+    }
+  ]
+}

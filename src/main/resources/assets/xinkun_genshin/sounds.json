@@ -1,0 +1,1847 @@
+{
+  "voice/furina/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/chat4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/chat4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/death3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/death3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/fire1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/fire1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/cake1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/cake1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting5": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting5",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/greeting_night3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/chat4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/chat4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/chat5": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/chat5",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/chat6": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/chat6",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/attack4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/attack4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/attack5": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/attack5",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/attack6": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/attack6",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/hurt3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/hurt3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/death3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/death3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/ad1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/ad1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/ad2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/ad2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/ad3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/ad3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/ad4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/ad4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/firemagic1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/firemagic1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/firemagic2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/firemagic2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/firemagic3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/firemagic3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/return1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/return1",
+        "stream": true
+      }
+    ]
+  },
+  "spell/water_cast": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/water_cast"
+      }
+    ]
+  },
+  "spell/water_summon": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/water_summon"
+      }
+    ]
+  },
+  "spell/water_extinguish": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/water_extinguish"
+      }
+    ]
+  },
+  "spell/fire_cast": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/fire_cast"
+      }
+    ]
+  },
+  "spirit/ambient": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spirit/ambient"
+      }
+    ]
+  },
+  "spirit/hurt": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spirit/hurt"
+      }
+    ]
+  },
+  "spirit/death": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spirit/death"
+      }
+    ]
+  },
+  "spirit/attack": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spirit/attack"
+      }
+    ]
+  },
+  "voice/furina/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/furina/weather_sun1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/furina/weather_sun1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/hu_tao/weather_sun1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/hu_tao/weather_sun1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/chat4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/chat4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/death3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/death3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/weather_sun1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/weather_sun1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/firework1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/firework1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/firework2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/firework2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/firework3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/firework3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/firework4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/firework4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/firework5": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/firework5",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/invite1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/invite1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/show1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/show1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/show2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/show2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/show3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/show3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/show4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/show4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/gift1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/gift1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/gift2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/gift2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/greeting_night1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/greeting_night2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/hurt3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/hurt3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/yoimiya/hurt4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/yoimiya/hurt4",
+        "stream": true
+      }
+    ]
+  },
+  "spell/moon_summon": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/moon_summon"
+      }
+    ]
+  },
+  "spell/moon_pulse": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/moon_pulse"
+      }
+    ]
+  },
+  "spell/moon_heal": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:spell/moon_heal"
+      }
+    ]
+  },
+  "voice/zhongli/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/companion1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/companion1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/companion2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/companion2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/companion3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/companion3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/gift1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/gift1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/gift2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/gift2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/greeting_night1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/greeting_night2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/heal1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/heal1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/heal2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/heal2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/shy1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/shy1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/shy2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/shy2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/zhongli/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/zhongli/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/companion1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/companion1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/companion2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/companion2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/companion3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/companion3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/gift1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/gift1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/gift2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/gift2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/greeting_night1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/greeting_night2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/heal1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/heal1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/heal2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/heal2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/moon1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/moon1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/moon2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/moon2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/moon3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/moon3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/shy1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/shy1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/shy2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/shy2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/death3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/death3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/ecology1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/ecology1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/ecology2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/ecology2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/greeting_night1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/greeting_night2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/heal1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/heal1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/heal2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/heal2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/weather_sun1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/weather_sun1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/nahida/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/nahida/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/attack1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/attack1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/attack2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/attack2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/attack3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/attack3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/attack4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/attack4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/attack5": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/attack5",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/attack6": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/attack6",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/chat1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/chat1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/chat2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/chat2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/chat3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/chat3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/chat4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/chat4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/chat5": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/chat5",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/chat6": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/chat6",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/companion1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/companion1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/companion2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/companion2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/companion3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/companion3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/death1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/death1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/death2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/death2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/death3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/death3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/frost1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/frost1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/frost2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/frost2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/frost3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/frost3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/gift1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/gift1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/gift2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/gift2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/gift3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/gift3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/greeting1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/greeting1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/greeting2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/greeting2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/greeting3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/greeting3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/greeting_night1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/greeting_night1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/greeting_night2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/greeting_night2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/heal1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/heal1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/heal2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/heal2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/hurt1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/hurt2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/hurt2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/hurt3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/hurt3",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/hurt4": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/hurt4",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/to_columbina1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/to_columbina1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/to_columbina2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/to_columbina2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/weather_rain1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/weather_rain1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/weather_snow1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/weather_snow1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/weather_sun1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/weather_sun1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/sandrone/weather_thunder1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/sandrone/weather_thunder1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/to_sandrone1": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/to_sandrone1",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/to_sandrone2": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/to_sandrone2",
+        "stream": true
+      }
+    ]
+  },
+  "voice/columbina/to_sandrone3": {
+    "sounds": [
+      {
+        "name": "xinkun_genshin:voice/columbina/to_sandrone3",
+        "stream": true
+      }
+    ]
+  }
+}

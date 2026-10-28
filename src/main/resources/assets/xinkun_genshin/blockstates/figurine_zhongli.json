@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=1": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=2": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=3": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=4": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=5": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=6": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=7": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=8": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=9": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=10": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=11": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=12": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=13": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=14": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    },
+    "rotation=15": {
+      "model": "xinkun_genshin:block/figurine_zhongli"
+    }
+  }
+}

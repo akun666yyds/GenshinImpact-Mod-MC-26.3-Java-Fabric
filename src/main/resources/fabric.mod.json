@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "xinkun_genshin",
+  "version": "${version}",
+  "name": "新坤的原神角色",
+  "description": "把芙宁娜、胡桃、宵宫、哥伦比娅、钟离、纳西妲与桑多涅作为拥有智能 AI 的原神角色带进 Minecraft 26.3：骨骼蒙皮与灵动眨眼、原生皮肤立体层、按角色区分的攻击/挖矿/砍树动作、元素技能、天气语音、自然回血，以及 7 件可摆放的角色手办与 59 件可直接放置的完整建筑蓝图道具（现代别墅、城市高楼、中世纪建筑、璃月古建与角色专属建筑）。\n\n版权所有 © 2026 啊坤。",
+  "authors": [
+    "啊坤（Gmail: akun666yyds@gmail.com · 163: sufu561guangua@163.com）"
+  ],
+  "contact": {
+    "email": "akun666yyds@gmail.com"
+  },
+  "license": "MIT",
+  "icon": "assets/xinkun_genshin/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.akun.xinkun.XinkunGenshinMod"
+    ],
+    "client": [
+      "com.akun.xinkun.client.XinkunGenshinClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,49 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# 本地素材与调试残留（仅忽略仓库根目录，不影响 src 内的贴图）
+
+/blueprints_src/
+/*.png
+*.zip
+*.7z
+char-weap.dict
+tools/__pycache__/

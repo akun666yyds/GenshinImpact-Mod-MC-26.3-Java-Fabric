@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "id": "xinkun_genshin:paimon_portrait"
+    },
+    "title": {
+      "translate": "advancements.xinkun_genshin.genshin_kill.title"
+    },
+    "description": {
+      "translate": "advancements.xinkun_genshin.genshin_kill.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "kill_genshin_character": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "#xinkun_genshin:genshin_characters"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kill_genshin_character"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

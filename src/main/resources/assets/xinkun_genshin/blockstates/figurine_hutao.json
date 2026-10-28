@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "rotation=0": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=1": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=2": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=3": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=4": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=5": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=6": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=7": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=8": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=9": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=10": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=11": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=12": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=13": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=14": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    },
+    "rotation=15": {
+      "model": "xinkun_genshin:block/figurine_hutao"
+    }
+  }
+}
